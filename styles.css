@@ -1,0 +1,20 @@
+.beam-button {
+  position: absolute;
+  z-index: 1001;
+  background: #EEE;
+  /*top: 112px;*/
+  /*background-position: 26px -144px;*/
+}
+
+.beam-button:hover {
+  /*background-position: 26px -232px;*/
+}
+
+.beam-button:active {
+  /*background-position: 26px -320px;*/
+}
+
+.beam-icon {
+  height: 50px;
+  width: 50px;
+}
